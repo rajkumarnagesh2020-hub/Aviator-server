@@ -19,7 +19,7 @@ let gameInterval;
 
 // --- RENDER SLEEP SOLUTION ---
 // जब Render से लिंक मिल जाए, तो यहाँ अपना URL डाल देना
-const RENDER_URL = "https://your-app-name.onrender.com"; 
+const RENDER_URL = "https://aviator-server-3cid.onrender.com/"; 
 
 setInterval(() => {
     if (RENDER_URL.includes("onrender.com")) {
